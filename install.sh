@@ -275,6 +275,7 @@ config_links() {
     ln -s "$zconf_path/ninit" "$conf_path/"
     ln -s "$zconf_path/startup.py" "$conf_path/"
     ln -s "$zconf_path/mpv" "$conf_path/"
+    ln -s "$zconf_path/joshuto" "$conf_path/"
 }
 
 has_program() {

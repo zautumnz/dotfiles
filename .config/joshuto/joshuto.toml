@@ -1,0 +1,35 @@
+use_trash = false
+
+[display]
+# default, minimal, hsplit
+mode = "default"
+
+show_borders = true
+show_hidden = true
+show_icons = false
+
+# size, mtime, user, gourp, perm. can be combined with |.
+# `none` to disable, `all` to enable all
+# all and none can't be combined with other options
+linemode = "size"
+
+[display.sort]
+# lexical, mtime, natural, size, ext
+sort_method = "natural"
+case_sensitive = false
+directories_first = true
+reverse = false
+
+[preview]
+max_preview_size = "2MB"
+
+# insensitive, sensitive, smart
+[search]
+string_case_sensitivity = "insensitive"
+glob_case_sensitivity = "sensitive"
+regex_case_sensitivity = "sensitive"
+fzf_case_sensitivity = "insensitive"
+
+[tab]
+# inherit, home, root
+home_page = "home"
