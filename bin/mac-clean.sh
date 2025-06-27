@@ -10,7 +10,6 @@ sudo -v
 
 del_paths=(
     "$HOME/.Trash/*"
-    "$HOME/.local/share/Trash/*"
     "$HOME/.cache/youtube-dl/*"
     "$HOME/.cache/yt-dlp/*"
     "$HOME/.viminfo"
