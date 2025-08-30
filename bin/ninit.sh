@@ -18,9 +18,8 @@ WITHOUTG="{
   \"description\": \"$DN\",
   \"version\": \"0.0.1\",
   \"author\": {
-    \"name\": \"Zac Anger\",
-    \"email\": \"zac@zacanger.com\",
-    \"url\": \"https://zacanger.com\"
+    \"name\": \"Autumn Z\",
+    \"email\": \"shitianyan@pm.me\"
   },
   \"license\": \"MIT\",
   \"main\": \"index.js\",
@@ -33,12 +32,12 @@ WITHOUTG="{
   \"engines\": {
     \"node\": \">=18.0.0\"
   },
-  \"homepage\": \"https://github.com/zacanger/$DN#readme\",
+  \"homepage\": \"https://github.com/zautumnz/$DN#readme\",
   \"repository\": {
     \"type\": \"git\",
-    \"url\": \"https://github.com/zacanger/$DN.git\"
+    \"url\": \"https://github.com/zautumnz/$DN.git\"
   },
-  \"bugs\": \"https://github.com/zacanger/$DN/issues\",
+  \"bugs\": \"https://github.com/zautumnz/$DN/issues\",
   \"keywords\": [
     \"$DN\",
     \"\"
@@ -52,9 +51,8 @@ WITHG="{
   \"description\": \"$DN\",
   \"version\": \"0.0.1\",
   \"author\": {
-    \"name\": \"Zac Anger\",
-    \"email\": \"zac@zacanger.com\",
-    \"url\": \"https://zacanger.com\"
+    \"name\": \"Autumn Z\",
+    \"email\": \"shitianyan@pm.me\"
   },
   \"license\": \"MIT\",
   \"main\": \"index.js\",
@@ -68,12 +66,12 @@ WITHG="{
     \"node\": \">=18.0.0\"
   },
   \"bin\": \"./index.js\",
-  \"homepage\": \"https://github.com/zacanger/$DN#readme\",
+  \"homepage\": \"https://github.com/zautumnz/$DN#readme\",
   \"repository\": {
     \"type\": \"git\",
-    \"url\": \"https://github.com/zacanger/$DN.git\"
+    \"url\": \"https://github.com/zautumnz/$DN.git\"
   },
-  \"bugs\": \"https://github.com/zacanger/$DN/issues\",
+  \"bugs\": \"https://github.com/zautumnz/$DN/issues\",
   \"keywords\": [
     \"$DN\",
     \"\"

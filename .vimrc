@@ -1,4 +1,4 @@
-" zacanger's .vimrc
+" autumn's .vimrc
 
 if has('vim_starting')
     set nocompatible " Be iMproved
