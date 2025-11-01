@@ -1,9 +1,5 @@
 # `$HOME`
 
-See <https://github.com/zautumnz/junk/tree/master/dotfiles-archive> for old
-Git history. I archived the repo and started fresh due to huge Git directory
-size.
-
 I keep this repo at `$HOME/Dropbox/z`, and my setup scripts (see below for
 details) link everything to `$HOME/`. This repo is laid out exactly the same way
 as it is in my home directory, with the exception of this readme, the license
@@ -18,8 +14,8 @@ generic slim Linux installations (for use in remote environments).
 
 * macOS, Rectangle, stock Terminal.app
 * File manager: Joshuto
-* Editor: Vim
-* Browser: Firefox
+* Editor: Vim and Zed
+* Browser: Waterfox
 * Shell: Bash, with lots of aliases and handy functions. `~/.bashrc`
     mostly just sources a bunch of stuff in `~/.bash/`
 
@@ -28,8 +24,8 @@ generic slim Linux installations (for use in remote environments).
 * `~/bin/mac-*` is all Mac-specific scripts. Most aliases and functions are
     written to be compatible with both Mac and Linux.
 * The files at `misc/*.list` are for installing packages.
-* I mostly work with configs, shell scripts, and some Python and Node, so my
-    setup is oriented towards quick navigation and editing.
+* I work heavily in TS/JS/Node/React, some Python, some Go, some Shell, and lots
+    of configs. My setup is oriented towards quick navigation and editing.
 * I previously mostly used Ubuntu, and before that Arch, and before that Debian,
     so some lingering bits for those distros may still be lingering around.
 * Unless otherwise noted, everything here is under the MIT license.

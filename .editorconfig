@@ -9,7 +9,7 @@ insert_final_newline = true
 trim_trailing_whitespace = true
 indent_size = 4
 
-[*.js]
+[*.{js,ts,tsx,jsx}]
 indent_size = 2
 
 [{Makefile,go.mod,go.sum,*.go}]

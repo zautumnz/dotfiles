@@ -11,9 +11,9 @@ let g:coc_global_extensions = [
 \ 'coc-css',
 \ 'coc-yaml',
 \ 'coc-sh',
+\ 'coc-go',
 \ ]
 " \ 'coc-pyright',
-" \ 'coc-go',
 
 call plug#begin('~/.local/share/vim/plugged')
 

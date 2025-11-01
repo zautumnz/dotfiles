@@ -341,6 +341,9 @@ handle_config_special_cases() {
     mkdir -p "$HOME/.vim/autoload"
     cp -r "$here/.vim/autoload/airline" "$HOME/.vim/autoload/"
 
+    mkdir -p "$HOME/.config/zed"
+    cp "$here/.config/zed/settings.json" "$HOME/.config/zed/settings.json"
+
     if [ -f "$HOME/.gitconfig" ]; then
         cat "$here/.gitconfig" "$HOME/.gitconfig" > tmp_gitconfig_ignore
         mv tmp_gitconfig_ignore "$HOME/.gitconfig"
