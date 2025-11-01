@@ -29,7 +29,7 @@ Plug 'bronson/vim-trailing-whitespace'            " highlight trailing whitespac
 Plug 'jiangmiao/auto-pairs'                       " auto-complete pairs of things
 Plug 'junegunn/seoul256.vim'                      " colo
 Plug 'junegunn/vim-easy-align'                    " align stuff on a symbol (like the comments in this block)
-" Plug 'fatih/vim-go'                               " go support
+Plug 'fatih/vim-go'                               " go support
 Plug 'junegunn/vim-peekaboo'                      " see registers easily
 Plug 'junegunn/vim-slash'                         " better buffer search
 Plug 'mhinz/vim-signify'                          " vcs markers in gutter, also see 'airblade/vim-gitgutter'
