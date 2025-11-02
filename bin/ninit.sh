@@ -18,8 +18,7 @@ WITHOUTG="{
   \"description\": \"$DN\",
   \"version\": \"0.0.1\",
   \"author\": {
-    \"name\": \"Autumn Z\",
-    \"email\": \"shitianyan@pm.me\"
+    \"name\": \"Autumn Z\"
   },
   \"license\": \"MIT\",
   \"main\": \"index.js\",
@@ -51,8 +50,7 @@ WITHG="{
   \"description\": \"$DN\",
   \"version\": \"0.0.1\",
   \"author\": {
-    \"name\": \"Autumn Z\",
-    \"email\": \"shitianyan@pm.me\"
+    \"name\": \"Autumn Z\"
   },
   \"license\": \"MIT\",
   \"main\": \"index.js\",
