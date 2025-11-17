@@ -89,9 +89,9 @@ const main = () => {
       break
     default:
       console.log('Usage:')
-      console.log('  node script.js in     # start work')
-      console.log('  node script.js out    # stop work')
-      console.log('  node script.js view   # view monthly hours')
+      console.log('  timeclock.js in   # start work')
+      console.log('  timeclock.js out  # stop work')
+      console.log('  timeclock.js view # view hours by month')
   }
 }
 
