@@ -19,6 +19,7 @@ setup_mac_misc() {
     log_info "${FUNCNAME[0]}"
     ln -s /opt/homebrew/bin/python3 /opt/homebrew/bin/python
     go install golang.org/x/tools/cmd/godoc@latest
+    go install github.com/boyter/scc/v3@latest
 }
 
 setup_brew() {
