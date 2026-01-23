@@ -8,7 +8,6 @@ brew cleanup --prune=all
 for p in $(cat ~/Dropbox/z/misc/npm.list); do npm i -g "$p"; done
 cat ~/Dropbox/z/misc/pip.list | sed '/pip/d' | xargs python3.9 -m pip install -U
 cat ~/Dropbox/z/misc/pip.list | sed '/pip/d' | xargs python3.10 -m pip install -U
-cat ~/Dropbox/z/misc/pip.list | sed '/pip/d' | xargs python3.12 -m pip install -U --break-system-packages
 cat ~/Dropbox/z/misc/pip.list | sed '/pip/d' | xargs python3.13 -m pip install -U --break-system-packages
 cat ~/Dropbox/z/misc/pip.list | sed '/pip/d' | xargs python3.14 -m pip install -U --break-system-packages
 
