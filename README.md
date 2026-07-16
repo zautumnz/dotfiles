@@ -14,7 +14,7 @@ generic slim Linux installations (for use in remote environments).
 
 * macOS, Rectangle, stock Terminal.app
 * File manager: Joshuto
-* Editor: Vim and Zed
+* Editor: Vim
 * Browser: Waterfox
 * Shell: Bash, with lots of aliases and handy functions. `~/.bashrc`
     mostly just sources a bunch of stuff in `~/.bash/`
